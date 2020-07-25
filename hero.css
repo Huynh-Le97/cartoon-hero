@@ -1,0 +1,70 @@
+body{
+	margin: 0px;
+	font-family: Helvetica, Arial, sans-serif;
+	
+}
+
+
+
+/*header css*/
+header{
+	background-color: gray;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+h1, h2{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 55px;
+    width: 300px;
+    border: 10px solid papayawhip;
+}
+
+
+
+/*main body css*/
+main{
+	max-width: 100%;
+	margin: 0px auto;
+	padding: 0 350px;
+}
+
+main img{
+	align-content: center;
+	max-width: 100%;
+}
+main h2{
+	margin-bottom: 0px;
+	font-size: 50px;
+	font-style: italic;
+}
+
+a{
+	color: gray;
+}
+a:hover{
+	color: black;
+}
+
+
+footer{
+	background-color: gray;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+p.caption{
+	color: gray; 
+	margin: 0px;
+	font-style: italic;
+}
